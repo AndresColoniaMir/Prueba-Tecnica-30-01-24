@@ -1,12 +1,6 @@
 public class Main {
 
-    // Crear un funcion que se llame decipher que funcione de la siguinte manera
-    // 1. Como argumento recive dos String el priemero una cadena cifrada y la segunda una palabra conocida
-    // 2. El cifrado de la cadena funciona de la siguiente manera cada letra se mueve dos espacios ejemplo love =
-    // 3. La palabra conocida es una palabra que posiblemente este en el mensaje una ves decifrado
-    // 4. la funcion deve retornar el mensaje decifrado si contiene la palabra conocida de lo contario retorna el String "Invalid"
-    // 5. deben de respetarce los espacios, simbolos y puntuacion.
-    // 6. antes de 'a' o 'A' esta la 'z' o 'Z' y viceversa.
+
     public static void main(String[] args) {
         String ciphertext = "!Gn rgttq gu coctknnq.";
         String knownWord = "perro";
